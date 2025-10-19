@@ -2,11 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//example.com//
 X-WR-CALDESC:Dagatalið inniheldur íslenska hátíðisdaga og aðra merki
- sdaga frá árinu 1950-2100. Sólstöður ná þó aðeins yfir árin 1950
- –2050. Þá eru nokkrir sérstakir dagar á borð við menningarnótt og
-  tímasetningu sumar- og vetrartíma í Evrópu sem ná yfir skemmra tíma
- bil. Athugasemdir og ábendingar vel þegnar. Sendist á Alexander Kristj
- ánsson. Netfang: lexpostur@gmail.com. Uppfært 17. október 2025.
+ sdaga frá árinu 1950-2100. Sumir atburðir ná ekki eins langt fram í t
+ ímann eðli máls samkvæmt. Athugasemdir og ábendingar vel þegnar. Sen
+ dist á Alexander Kristjánsson. Netfang: lexpostur@gmail.com. Uppfært 19
+ . október 2025.
 X-WR-CALNAME:Íslenskt almanak
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
@@ -75064,6 +75063,1806 @@ DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
  dingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20510320
+DTEND;VALUE=DATE:20510321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20510621
+DTEND;VALUE=DATE:20510622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20510923
+DTEND;VALUE=DATE:20510924
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20511221
+DTEND;VALUE=DATE:20511222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20520319
+DTEND;VALUE=DATE:20520320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20520620
+DTEND;VALUE=DATE:20520621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20520922
+DTEND;VALUE=DATE:20520923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20521221
+DTEND;VALUE=DATE:20521222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20530320
+DTEND;VALUE=DATE:20530321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20530620
+DTEND;VALUE=DATE:20530621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20530922
+DTEND;VALUE=DATE:20530923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20531221
+DTEND;VALUE=DATE:20531222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20540320
+DTEND;VALUE=DATE:20540321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20540621
+DTEND;VALUE=DATE:20540622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20540922
+DTEND;VALUE=DATE:20540923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20541221
+DTEND;VALUE=DATE:20541222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20550320
+DTEND;VALUE=DATE:20550321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20550621
+DTEND;VALUE=DATE:20550622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20550923
+DTEND;VALUE=DATE:20550924
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20551221
+DTEND;VALUE=DATE:20551222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20560319
+DTEND;VALUE=DATE:20560320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20560620
+DTEND;VALUE=DATE:20560621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20560922
+DTEND;VALUE=DATE:20560923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20561221
+DTEND;VALUE=DATE:20561222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20570320
+DTEND;VALUE=DATE:20570321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20570620
+DTEND;VALUE=DATE:20570621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20570922
+DTEND;VALUE=DATE:20570923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20571221
+DTEND;VALUE=DATE:20571222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20580320
+DTEND;VALUE=DATE:20580321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20580621
+DTEND;VALUE=DATE:20580622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20580922
+DTEND;VALUE=DATE:20580923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20581221
+DTEND;VALUE=DATE:20581222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20590320
+DTEND;VALUE=DATE:20590321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20590621
+DTEND;VALUE=DATE:20590622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20590923
+DTEND;VALUE=DATE:20590924
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20591221
+DTEND;VALUE=DATE:20591222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20600319
+DTEND;VALUE=DATE:20600320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20600620
+DTEND;VALUE=DATE:20600621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20600922
+DTEND;VALUE=DATE:20600923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20601221
+DTEND;VALUE=DATE:20601222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20610320
+DTEND;VALUE=DATE:20610321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20610620
+DTEND;VALUE=DATE:20610621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20610922
+DTEND;VALUE=DATE:20610923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20611221
+DTEND;VALUE=DATE:20611222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20620320
+DTEND;VALUE=DATE:20620321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20620621
+DTEND;VALUE=DATE:20620622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20620922
+DTEND;VALUE=DATE:20620923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20621221
+DTEND;VALUE=DATE:20621222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20630320
+DTEND;VALUE=DATE:20630321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20630621
+DTEND;VALUE=DATE:20630622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20630922
+DTEND;VALUE=DATE:20630923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20631221
+DTEND;VALUE=DATE:20631222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20640319
+DTEND;VALUE=DATE:20640320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20640620
+DTEND;VALUE=DATE:20640621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20640922
+DTEND;VALUE=DATE:20640923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20641221
+DTEND;VALUE=DATE:20641222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20650320
+DTEND;VALUE=DATE:20650321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20650620
+DTEND;VALUE=DATE:20650621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20650922
+DTEND;VALUE=DATE:20650923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20651221
+DTEND;VALUE=DATE:20651222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20660320
+DTEND;VALUE=DATE:20660321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20660621
+DTEND;VALUE=DATE:20660622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20660922
+DTEND;VALUE=DATE:20660923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20661221
+DTEND;VALUE=DATE:20661222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20670320
+DTEND;VALUE=DATE:20670321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20670621
+DTEND;VALUE=DATE:20670622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20670922
+DTEND;VALUE=DATE:20670923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20671221
+DTEND;VALUE=DATE:20671222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20680319
+DTEND;VALUE=DATE:20680320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20680620
+DTEND;VALUE=DATE:20680621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20680922
+DTEND;VALUE=DATE:20680923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20681221
+DTEND;VALUE=DATE:20681222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20690320
+DTEND;VALUE=DATE:20690321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20690620
+DTEND;VALUE=DATE:20690621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20690922
+DTEND;VALUE=DATE:20690923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20691221
+DTEND;VALUE=DATE:20691222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20700320
+DTEND;VALUE=DATE:20700321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20700620
+DTEND;VALUE=DATE:20700621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20700922
+DTEND;VALUE=DATE:20700923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20701221
+DTEND;VALUE=DATE:20701222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20710320
+DTEND;VALUE=DATE:20710321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20710621
+DTEND;VALUE=DATE:20710622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20710922
+DTEND;VALUE=DATE:20710923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20711221
+DTEND;VALUE=DATE:20711222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20720319
+DTEND;VALUE=DATE:20720320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20720620
+DTEND;VALUE=DATE:20720621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20720922
+DTEND;VALUE=DATE:20720923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20721221
+DTEND;VALUE=DATE:20721222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20730320
+DTEND;VALUE=DATE:20730321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20730620
+DTEND;VALUE=DATE:20730621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20730922
+DTEND;VALUE=DATE:20730923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20731221
+DTEND;VALUE=DATE:20731222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20740320
+DTEND;VALUE=DATE:20740321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20740620
+DTEND;VALUE=DATE:20740621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20740922
+DTEND;VALUE=DATE:20740923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20741221
+DTEND;VALUE=DATE:20741222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20750320
+DTEND;VALUE=DATE:20750321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20750621
+DTEND;VALUE=DATE:20750622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20750922
+DTEND;VALUE=DATE:20750923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20751221
+DTEND;VALUE=DATE:20751222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20760319
+DTEND;VALUE=DATE:20760320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20760620
+DTEND;VALUE=DATE:20760621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20760922
+DTEND;VALUE=DATE:20760923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20761221
+DTEND;VALUE=DATE:20761222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20770319
+DTEND;VALUE=DATE:20770320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20770620
+DTEND;VALUE=DATE:20770621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20770922
+DTEND;VALUE=DATE:20770923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20771221
+DTEND;VALUE=DATE:20771222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20780320
+DTEND;VALUE=DATE:20780321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20780620
+DTEND;VALUE=DATE:20780621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20780922
+DTEND;VALUE=DATE:20780923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20781221
+DTEND;VALUE=DATE:20781222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20790320
+DTEND;VALUE=DATE:20790321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20790621
+DTEND;VALUE=DATE:20790622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20790922
+DTEND;VALUE=DATE:20790923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20791221
+DTEND;VALUE=DATE:20791222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20800319
+DTEND;VALUE=DATE:20800320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20800620
+DTEND;VALUE=DATE:20800621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20800922
+DTEND;VALUE=DATE:20800923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20801220
+DTEND;VALUE=DATE:20801221
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20810319
+DTEND;VALUE=DATE:20810320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20810620
+DTEND;VALUE=DATE:20810621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20810922
+DTEND;VALUE=DATE:20810923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20811221
+DTEND;VALUE=DATE:20811222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20820320
+DTEND;VALUE=DATE:20820321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20820620
+DTEND;VALUE=DATE:20820621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20820922
+DTEND;VALUE=DATE:20820923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20821221
+DTEND;VALUE=DATE:20821222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20830320
+DTEND;VALUE=DATE:20830321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20830621
+DTEND;VALUE=DATE:20830622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20830922
+DTEND;VALUE=DATE:20830923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20831221
+DTEND;VALUE=DATE:20831222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20840319
+DTEND;VALUE=DATE:20840320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20840620
+DTEND;VALUE=DATE:20840621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20840922
+DTEND;VALUE=DATE:20840923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20841220
+DTEND;VALUE=DATE:20841221
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20850319
+DTEND;VALUE=DATE:20850320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20850620
+DTEND;VALUE=DATE:20850621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20850922
+DTEND;VALUE=DATE:20850923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20851221
+DTEND;VALUE=DATE:20851222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20860320
+DTEND;VALUE=DATE:20860321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20860620
+DTEND;VALUE=DATE:20860621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20860922
+DTEND;VALUE=DATE:20860923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20861221
+DTEND;VALUE=DATE:20861222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20870320
+DTEND;VALUE=DATE:20870321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20870621
+DTEND;VALUE=DATE:20870622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20870922
+DTEND;VALUE=DATE:20870923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20871221
+DTEND;VALUE=DATE:20871222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20880319
+DTEND;VALUE=DATE:20880320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20880620
+DTEND;VALUE=DATE:20880621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20880922
+DTEND;VALUE=DATE:20880923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20881220
+DTEND;VALUE=DATE:20881221
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20890319
+DTEND;VALUE=DATE:20890320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20890620
+DTEND;VALUE=DATE:20890621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20890922
+DTEND;VALUE=DATE:20890923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20891221
+DTEND;VALUE=DATE:20891222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20900320
+DTEND;VALUE=DATE:20900321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20900620
+DTEND;VALUE=DATE:20900621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20900922
+DTEND;VALUE=DATE:20900923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20901221
+DTEND;VALUE=DATE:20901222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20910320
+DTEND;VALUE=DATE:20910321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20910621
+DTEND;VALUE=DATE:20910622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20910922
+DTEND;VALUE=DATE:20910923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20911221
+DTEND;VALUE=DATE:20911222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20920319
+DTEND;VALUE=DATE:20920320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20920620
+DTEND;VALUE=DATE:20920621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20920921
+DTEND;VALUE=DATE:20920922
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20921220
+DTEND;VALUE=DATE:20921221
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20930319
+DTEND;VALUE=DATE:20930320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20930620
+DTEND;VALUE=DATE:20930621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20930922
+DTEND;VALUE=DATE:20930923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20931221
+DTEND;VALUE=DATE:20931222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20940320
+DTEND;VALUE=DATE:20940321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20940620
+DTEND;VALUE=DATE:20940621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20940922
+DTEND;VALUE=DATE:20940923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20941221
+DTEND;VALUE=DATE:20941222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20950320
+DTEND;VALUE=DATE:20950321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20950621
+DTEND;VALUE=DATE:20950622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20950922
+DTEND;VALUE=DATE:20950923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20951221
+DTEND;VALUE=DATE:20951222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20960319
+DTEND;VALUE=DATE:20960320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20960620
+DTEND;VALUE=DATE:20960621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20960921
+DTEND;VALUE=DATE:20960922
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20961220
+DTEND;VALUE=DATE:20961221
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20970319
+DTEND;VALUE=DATE:20970320
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20970620
+DTEND;VALUE=DATE:20970621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20970922
+DTEND;VALUE=DATE:20970923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20971221
+DTEND;VALUE=DATE:20971222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20980320
+DTEND;VALUE=DATE:20980321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20980620
+DTEND;VALUE=DATE:20980621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20980922
+DTEND;VALUE=DATE:20980923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20981221
+DTEND;VALUE=DATE:20981222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:20990320
+DTEND;VALUE=DATE:20990321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:20990620
+DTEND;VALUE=DATE:20990621
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:20990922
+DTEND;VALUE=DATE:20990923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:20991221
+DTEND;VALUE=DATE:20991222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorjafndægur
+DTSTART;VALUE=DATE:21000320
+DTEND;VALUE=DATE:21000321
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sumarsólstöður
+DTSTART;VALUE=DATE:21000621
+DTEND;VALUE=DATE:21000622
+DESCRIPTION:Lengsti dagur ársins. Hér er sól lengst frá miðbaugi til 
+ norðurs. Sumarsólstöður eru á tímabilinu 20.–22. júní.\n\nÁbend
+ ingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haustjafndægur
+DTSTART;VALUE=DATE:21000922
+DTEND;VALUE=DATE:21000923
+DESCRIPTION:Jafndægur eru tvisvar á ári\, vorjafndægur (á bilinu 19.
+ –21. mars) og haustjafndægur (21.–24. september). Um þetta leyti er 
+ dagurinn\, frá sólarupprás til sólarlags\, um það bil jafnlangur nó
+ ttunni hvar sem er á jörðinni. Jafndægur eru miðja vegu milli sumar- 
+ og vetrarsólstaða.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vetrarsólstöður
+DTSTART;VALUE=DATE:21001221
+DTEND;VALUE=DATE:21001222
+DESCRIPTION:Stysti dagur ársins. Hér er sól lengst frá miðbaugi til s
+ uðurs. Vetrarsólstöður eru á tímabilinu 20.–23. desember.\n\nÁben
+ dingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fullt tungl
 DTSTART;VALUE=DATE:19500104
 DTEND;VALUE=DATE:19500105
@@ -88154,5 +89953,300 @@ DTEND;VALUE=DATE:20260823
 DESCRIPTION:Afmælishátíð Reykjavíkur. Fyrst haldin 1996. Jafnan haldi
  n fyrsta laugardag á eða eftir 18. ágúst\, en þann dag árið 1786 f
  ékk Reykjavík kaupstaðarréttindi.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 2022 eru þær haldnar þriðja laugardag í m
+ aí\, en viku fyrr ef sá dagur ber upp á laugardag fyrir hvítasunnu.\n\
+ nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220515
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 2022 eru þær haldnar þriðja laugardag í m
+ aí\, en viku fyrr ef sá dagur ber upp á laugardag fyrir hvítasunnu.\n\
+ nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20180526
+DTEND;VALUE=DATE:20180527
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20140531
+DTEND;VALUE=DATE:20140601
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20100529
+DTEND;VALUE=DATE:20100530
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20060527
+DTEND;VALUE=DATE:20060528
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:20020525
+DTEND;VALUE=DATE:20020526
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sveitarstjórnarkosningar
+DTSTART;VALUE=DATE:19980523
+DTEND;VALUE=DATE:19980524
+DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:19520629
+DTEND;VALUE=DATE:19520630
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:19680630
+DTEND;VALUE=DATE:19680701
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:19800629
+DTEND;VALUE=DATE:19800630
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:19880626
+DTEND;VALUE=DATE:19880627
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:19960629
+DTEND;VALUE=DATE:19960630
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20040626
+DTEND;VALUE=DATE:20040627
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20120630
+DTEND;VALUE=DATE:20120701
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20160625
+DTEND;VALUE=DATE:20160626
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20200627
+DTEND;VALUE=DATE:20200628
+DESCRIPTION:Forsetakosningar voru haldnar síðasta laugardag í júní\, 
+ til og með kosningum 2020.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+DESCRIPTION:Forsetakosningar eru haldnar fyrsta laugardag í júní\, en v
+ iku síðar ef sá dagur ber upp á laugardag fyrir hvítasunnu. Þessi re
+ gla hefur verið í gildi frá 2024.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forsetakosningar
+DTSTART;VALUE=DATE:20280610
+DTEND;VALUE=DATE:20280611
+DESCRIPTION:Forsetakosningar eru haldnar fyrsta laugardag í júní\, en v
+ iku síðar ef sá dagur ber upp á laugardag fyrir hvítasunnu. Þessi re
+ gla hefur verið í gildi frá 2024.\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19530628
+DTEND;VALUE=DATE:19530629
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19560624
+DTEND;VALUE=DATE:19560625
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19590628
+DTEND;VALUE=DATE:19590629
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19591025
+DTEND;VALUE=DATE:19591026
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19630609
+DTEND;VALUE=DATE:19630610
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19670611
+DTEND;VALUE=DATE:19670612
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19710613
+DTEND;VALUE=DATE:19710614
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19740630
+DTEND;VALUE=DATE:19740701
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19780625
+DTEND;VALUE=DATE:19780626
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19791202
+DTEND;VALUE=DATE:19791203
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19830423
+DTEND;VALUE=DATE:19830424
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19870425
+DTEND;VALUE=DATE:19870426
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19910420
+DTEND;VALUE=DATE:19910421
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19950408
+DTEND;VALUE=DATE:19950409
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:19990508
+DTEND;VALUE=DATE:19990509
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20030510
+DTEND;VALUE=DATE:20030511
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20070512
+DTEND;VALUE=DATE:20070513
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20090425
+DTEND;VALUE=DATE:20090426
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20130427
+DTEND;VALUE=DATE:20130428
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20161029
+DTEND;VALUE=DATE:20161030
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20171028
+DTEND;VALUE=DATE:20171029
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20210925
+DTEND;VALUE=DATE:20210926
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alþingiskosningar
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+DESCRIPTION:Alþingiskosningar\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 END:VCALENDAR
