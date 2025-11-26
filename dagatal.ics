@@ -4,8 +4,8 @@ PRODID:-//My calendar product//example.com//
 X-WR-CALDESC:Dagatalið inniheldur íslenska hátíðisdaga og aðra merki
  sdaga frá árinu 1950-2100. Sumir atburðir ná ekki eins langt fram í t
  ímann eðli máls samkvæmt. Athugasemdir og ábendingar vel þegnar. Sen
- dist á Alexander Kristjánsson. Netfang: lexpostur@gmail.com. Uppfært 3.
-  nóvember 2025.
+ dist á Alexander Kristjánsson. Netfang: lexpostur@gmail.com. Uppfært 26
+ . nóvember 2025.
 X-WR-CALNAME:Íslenskt almanak
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
@@ -96646,7 +96646,7 @@ SUMMARY:Sveitarstjórnarkosningar
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
- tarfélögum landsins. Frá 2022 eru þær haldnar þriðja laugardag í m
+ tarfélögum landsins. Frá 2026 eru þær haldnar þriðja laugardag í m
  aí\, en viku fyrr ef sá dagur ber upp á laugardag fyrir hvítasunnu.\n\
  nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
@@ -96655,9 +96655,10 @@ SUMMARY:Sveitarstjórnarkosningar
 DTSTART;VALUE=DATE:20220514
 DTEND;VALUE=DATE:20220515
 DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
- tarfélögum landsins. Frá 2022 eru þær haldnar þriðja laugardag í m
- aí\, en viku fyrr ef sá dagur ber upp á laugardag fyrir hvítasunnu.\n\
- nÁbendingar: lexpostur@gmail.com.
+ tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
+ rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
+ sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96667,7 +96668,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96677,7 +96678,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96687,7 +96688,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96697,7 +96698,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96707,7 +96708,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sveitarstjórnarkosningar
@@ -96717,7 +96718,7 @@ DESCRIPTION:Sveitarstjórnarkosningar eru haldnar samtímis í öllum svei
  tarfélögum landsins. Frá 1998–2018 voru þær haldnar síðasta lauga
  rdag í maí\, en viku fyrr ef sá dagur bar upp á laugardag fyrir hvíta
  sunnu. Fyrir það var sama meginregla\, en þó gátu sveitarfélög hli
- ðrar kosningum.\n\nÁbendingar: lexpostur@gmail.com.
+ ðrað kosningum.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Forsetakosningar
