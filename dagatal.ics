@@ -4,8 +4,8 @@ PRODID:-//My calendar product//example.com//
 X-WR-CALDESC:Dagatalið inniheldur íslenska hátíðisdaga og aðra merki
  sdaga frá árinu 1950-2100. Sumir atburðir ná ekki eins langt fram í t
  ímann eðli máls samkvæmt. Athugasemdir og ábendingar vel þegnar. Sen
- dist á Alexander Kristjánsson. Netfang: lexpostur@gmail.com. Uppfært 26
- . nóvember 2025.
+ dist á Alexander Kristjánsson. Netfang: lexpostur@gmail.com. Uppfært 7.
+  febrúar 2026.
 X-WR-CALNAME:Íslenskt almanak
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
@@ -41351,7 +41351,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19501211
 DTEND;VALUE=DATE:19501212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -41580,15 +41580,15 @@ DTSTART;VALUE=DATE:19511223
 DTEND;VALUE=DATE:19511224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19511211
 DTEND;VALUE=DATE:19511212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -41832,15 +41832,15 @@ DTSTART;VALUE=DATE:19521221
 DTEND;VALUE=DATE:19521222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19521211
 DTEND;VALUE=DATE:19521212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -42069,15 +42069,15 @@ DTSTART;VALUE=DATE:19531220
 DTEND;VALUE=DATE:19531221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19531211
 DTEND;VALUE=DATE:19531212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -42306,15 +42306,15 @@ DTSTART;VALUE=DATE:19541219
 DTEND;VALUE=DATE:19541220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19541211
 DTEND;VALUE=DATE:19541212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -42543,15 +42543,15 @@ DTSTART;VALUE=DATE:19551218
 DTEND;VALUE=DATE:19551219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19551211
 DTEND;VALUE=DATE:19551212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -42780,15 +42780,15 @@ DTSTART;VALUE=DATE:19561223
 DTEND;VALUE=DATE:19561224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19561211
 DTEND;VALUE=DATE:19561212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -43032,15 +43032,15 @@ DTSTART;VALUE=DATE:19571222
 DTEND;VALUE=DATE:19571223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19571211
 DTEND;VALUE=DATE:19571212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -43269,15 +43269,15 @@ DTSTART;VALUE=DATE:19581221
 DTEND;VALUE=DATE:19581222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19581211
 DTEND;VALUE=DATE:19581212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -43506,15 +43506,15 @@ DTSTART;VALUE=DATE:19591220
 DTEND;VALUE=DATE:19591221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19591211
 DTEND;VALUE=DATE:19591212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -43743,15 +43743,15 @@ DTSTART;VALUE=DATE:19601218
 DTEND;VALUE=DATE:19601219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19601211
 DTEND;VALUE=DATE:19601212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -43979,7 +43979,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19611211
 DTEND;VALUE=DATE:19611212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -44208,15 +44208,15 @@ DTSTART;VALUE=DATE:19621223
 DTEND;VALUE=DATE:19621224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19621211
 DTEND;VALUE=DATE:19621212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -44460,15 +44460,15 @@ DTSTART;VALUE=DATE:19631222
 DTEND;VALUE=DATE:19631223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19631211
 DTEND;VALUE=DATE:19631212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -44697,15 +44697,15 @@ DTSTART;VALUE=DATE:19641220
 DTEND;VALUE=DATE:19641221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19641211
 DTEND;VALUE=DATE:19641212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -44934,15 +44934,15 @@ DTSTART;VALUE=DATE:19651219
 DTEND;VALUE=DATE:19651220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19651211
 DTEND;VALUE=DATE:19651212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -45171,15 +45171,15 @@ DTSTART;VALUE=DATE:19661218
 DTEND;VALUE=DATE:19661219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19661211
 DTEND;VALUE=DATE:19661212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -45407,7 +45407,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19671211
 DTEND;VALUE=DATE:19671212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -45651,15 +45651,15 @@ DTSTART;VALUE=DATE:19681222
 DTEND;VALUE=DATE:19681223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19681211
 DTEND;VALUE=DATE:19681212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -45888,15 +45888,15 @@ DTSTART;VALUE=DATE:19691221
 DTEND;VALUE=DATE:19691222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19691211
 DTEND;VALUE=DATE:19691212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -46125,15 +46125,15 @@ DTSTART;VALUE=DATE:19701220
 DTEND;VALUE=DATE:19701221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19701211
 DTEND;VALUE=DATE:19701212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -46362,15 +46362,15 @@ DTSTART;VALUE=DATE:19711219
 DTEND;VALUE=DATE:19711220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19711211
 DTEND;VALUE=DATE:19711212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -46598,7 +46598,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19721211
 DTEND;VALUE=DATE:19721212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -46827,15 +46827,15 @@ DTSTART;VALUE=DATE:19731223
 DTEND;VALUE=DATE:19731224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19731211
 DTEND;VALUE=DATE:19731212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -47079,15 +47079,15 @@ DTSTART;VALUE=DATE:19741222
 DTEND;VALUE=DATE:19741223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19741211
 DTEND;VALUE=DATE:19741212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -47316,15 +47316,15 @@ DTSTART;VALUE=DATE:19751221
 DTEND;VALUE=DATE:19751222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19751211
 DTEND;VALUE=DATE:19751212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -47553,15 +47553,15 @@ DTSTART;VALUE=DATE:19761219
 DTEND;VALUE=DATE:19761220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19761211
 DTEND;VALUE=DATE:19761212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -47790,15 +47790,15 @@ DTSTART;VALUE=DATE:19771218
 DTEND;VALUE=DATE:19771219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19771211
 DTEND;VALUE=DATE:19771212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -48026,7 +48026,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19781211
 DTEND;VALUE=DATE:19781212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -48255,15 +48255,15 @@ DTSTART;VALUE=DATE:19791223
 DTEND;VALUE=DATE:19791224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19791211
 DTEND;VALUE=DATE:19791212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -48507,15 +48507,15 @@ DTSTART;VALUE=DATE:19801221
 DTEND;VALUE=DATE:19801222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19801211
 DTEND;VALUE=DATE:19801212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -48744,15 +48744,15 @@ DTSTART;VALUE=DATE:19811220
 DTEND;VALUE=DATE:19811221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19811211
 DTEND;VALUE=DATE:19811212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -48981,15 +48981,15 @@ DTSTART;VALUE=DATE:19821219
 DTEND;VALUE=DATE:19821220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19821211
 DTEND;VALUE=DATE:19821212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -49218,15 +49218,15 @@ DTSTART;VALUE=DATE:19831218
 DTEND;VALUE=DATE:19831219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19831211
 DTEND;VALUE=DATE:19831212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -49455,15 +49455,15 @@ DTSTART;VALUE=DATE:19841223
 DTEND;VALUE=DATE:19841224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19841211
 DTEND;VALUE=DATE:19841212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -49707,15 +49707,15 @@ DTSTART;VALUE=DATE:19851222
 DTEND;VALUE=DATE:19851223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19851211
 DTEND;VALUE=DATE:19851212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -49944,15 +49944,15 @@ DTSTART;VALUE=DATE:19861221
 DTEND;VALUE=DATE:19861222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19861211
 DTEND;VALUE=DATE:19861212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -50181,15 +50181,15 @@ DTSTART;VALUE=DATE:19871220
 DTEND;VALUE=DATE:19871221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19871211
 DTEND;VALUE=DATE:19871212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -50418,15 +50418,15 @@ DTSTART;VALUE=DATE:19881218
 DTEND;VALUE=DATE:19881219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19881211
 DTEND;VALUE=DATE:19881212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -50654,7 +50654,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19891211
 DTEND;VALUE=DATE:19891212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -50883,15 +50883,15 @@ DTSTART;VALUE=DATE:19901223
 DTEND;VALUE=DATE:19901224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19901211
 DTEND;VALUE=DATE:19901212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -51135,15 +51135,15 @@ DTSTART;VALUE=DATE:19911222
 DTEND;VALUE=DATE:19911223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19911211
 DTEND;VALUE=DATE:19911212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -51372,15 +51372,15 @@ DTSTART;VALUE=DATE:19921220
 DTEND;VALUE=DATE:19921221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19921211
 DTEND;VALUE=DATE:19921212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -51609,15 +51609,15 @@ DTSTART;VALUE=DATE:19931219
 DTEND;VALUE=DATE:19931220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19931211
 DTEND;VALUE=DATE:19931212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -51846,15 +51846,15 @@ DTSTART;VALUE=DATE:19941218
 DTEND;VALUE=DATE:19941219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19941211
 DTEND;VALUE=DATE:19941212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -52082,7 +52082,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19951211
 DTEND;VALUE=DATE:19951212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -52326,15 +52326,15 @@ DTSTART;VALUE=DATE:19961222
 DTEND;VALUE=DATE:19961223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19961211
 DTEND;VALUE=DATE:19961212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -52563,15 +52563,15 @@ DTSTART;VALUE=DATE:19971221
 DTEND;VALUE=DATE:19971222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19971211
 DTEND;VALUE=DATE:19971212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -52800,15 +52800,15 @@ DTSTART;VALUE=DATE:19981220
 DTEND;VALUE=DATE:19981221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19981211
 DTEND;VALUE=DATE:19981212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -53037,15 +53037,15 @@ DTSTART;VALUE=DATE:19991219
 DTEND;VALUE=DATE:19991220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:19991211
 DTEND;VALUE=DATE:19991212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -53273,7 +53273,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20001211
 DTEND;VALUE=DATE:20001212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -53502,15 +53502,15 @@ DTSTART;VALUE=DATE:20011223
 DTEND;VALUE=DATE:20011224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20011211
 DTEND;VALUE=DATE:20011212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -53754,15 +53754,15 @@ DTSTART;VALUE=DATE:20021222
 DTEND;VALUE=DATE:20021223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20021211
 DTEND;VALUE=DATE:20021212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -53991,15 +53991,15 @@ DTSTART;VALUE=DATE:20031221
 DTEND;VALUE=DATE:20031222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20031211
 DTEND;VALUE=DATE:20031212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -54228,15 +54228,15 @@ DTSTART;VALUE=DATE:20041219
 DTEND;VALUE=DATE:20041220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20041211
 DTEND;VALUE=DATE:20041212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -54465,15 +54465,15 @@ DTSTART;VALUE=DATE:20051218
 DTEND;VALUE=DATE:20051219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20051211
 DTEND;VALUE=DATE:20051212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -54701,7 +54701,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20061211
 DTEND;VALUE=DATE:20061212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -54930,15 +54930,15 @@ DTSTART;VALUE=DATE:20071223
 DTEND;VALUE=DATE:20071224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20071211
 DTEND;VALUE=DATE:20071212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -55182,15 +55182,15 @@ DTSTART;VALUE=DATE:20081221
 DTEND;VALUE=DATE:20081222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20081211
 DTEND;VALUE=DATE:20081212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -55419,15 +55419,15 @@ DTSTART;VALUE=DATE:20091220
 DTEND;VALUE=DATE:20091221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20091211
 DTEND;VALUE=DATE:20091212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -55656,15 +55656,15 @@ DTSTART;VALUE=DATE:20101219
 DTEND;VALUE=DATE:20101220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20101211
 DTEND;VALUE=DATE:20101212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -55893,15 +55893,15 @@ DTSTART;VALUE=DATE:20111218
 DTEND;VALUE=DATE:20111219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20111211
 DTEND;VALUE=DATE:20111212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -56130,15 +56130,15 @@ DTSTART;VALUE=DATE:20121223
 DTEND;VALUE=DATE:20121224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20121211
 DTEND;VALUE=DATE:20121212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -56382,15 +56382,15 @@ DTSTART;VALUE=DATE:20131222
 DTEND;VALUE=DATE:20131223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20131211
 DTEND;VALUE=DATE:20131212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -56619,15 +56619,15 @@ DTSTART;VALUE=DATE:20141221
 DTEND;VALUE=DATE:20141222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20141211
 DTEND;VALUE=DATE:20141212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -56856,15 +56856,15 @@ DTSTART;VALUE=DATE:20151220
 DTEND;VALUE=DATE:20151221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20151211
 DTEND;VALUE=DATE:20151212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -57093,15 +57093,15 @@ DTSTART;VALUE=DATE:20161218
 DTEND;VALUE=DATE:20161219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20161211
 DTEND;VALUE=DATE:20161212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -57329,7 +57329,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20171211
 DTEND;VALUE=DATE:20171212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -57558,15 +57558,15 @@ DTSTART;VALUE=DATE:20181223
 DTEND;VALUE=DATE:20181224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20181211
 DTEND;VALUE=DATE:20181212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -57810,15 +57810,15 @@ DTSTART;VALUE=DATE:20191222
 DTEND;VALUE=DATE:20191223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20191211
 DTEND;VALUE=DATE:20191212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -58047,15 +58047,15 @@ DTSTART;VALUE=DATE:20201220
 DTEND;VALUE=DATE:20201221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20201211
 DTEND;VALUE=DATE:20201212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -58284,15 +58284,15 @@ DTSTART;VALUE=DATE:20211219
 DTEND;VALUE=DATE:20211220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20211211
 DTEND;VALUE=DATE:20211212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -58521,15 +58521,15 @@ DTSTART;VALUE=DATE:20221218
 DTEND;VALUE=DATE:20221219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20221211
 DTEND;VALUE=DATE:20221212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -58757,7 +58757,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20231211
 DTEND;VALUE=DATE:20231212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -59001,15 +59001,15 @@ DTSTART;VALUE=DATE:20241222
 DTEND;VALUE=DATE:20241223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20241211
 DTEND;VALUE=DATE:20241212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -59238,15 +59238,15 @@ DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -59475,15 +59475,15 @@ DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -59712,15 +59712,15 @@ DTSTART;VALUE=DATE:20271219
 DTEND;VALUE=DATE:20271220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20271211
 DTEND;VALUE=DATE:20271212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -59948,7 +59948,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20281211
 DTEND;VALUE=DATE:20281212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -60177,15 +60177,15 @@ DTSTART;VALUE=DATE:20291223
 DTEND;VALUE=DATE:20291224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20291211
 DTEND;VALUE=DATE:20291212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -60429,15 +60429,15 @@ DTSTART;VALUE=DATE:20301222
 DTEND;VALUE=DATE:20301223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20301211
 DTEND;VALUE=DATE:20301212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -60666,15 +60666,15 @@ DTSTART;VALUE=DATE:20311221
 DTEND;VALUE=DATE:20311222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20311211
 DTEND;VALUE=DATE:20311212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -60903,15 +60903,15 @@ DTSTART;VALUE=DATE:20321219
 DTEND;VALUE=DATE:20321220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20321211
 DTEND;VALUE=DATE:20321212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -61140,15 +61140,15 @@ DTSTART;VALUE=DATE:20331218
 DTEND;VALUE=DATE:20331219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20331211
 DTEND;VALUE=DATE:20331212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -61376,7 +61376,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20341211
 DTEND;VALUE=DATE:20341212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -61605,15 +61605,15 @@ DTSTART;VALUE=DATE:20351223
 DTEND;VALUE=DATE:20351224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20351211
 DTEND;VALUE=DATE:20351212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -61857,15 +61857,15 @@ DTSTART;VALUE=DATE:20361221
 DTEND;VALUE=DATE:20361222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20361211
 DTEND;VALUE=DATE:20361212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -62094,15 +62094,15 @@ DTSTART;VALUE=DATE:20371220
 DTEND;VALUE=DATE:20371221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20371211
 DTEND;VALUE=DATE:20371212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -62331,15 +62331,15 @@ DTSTART;VALUE=DATE:20381219
 DTEND;VALUE=DATE:20381220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20381211
 DTEND;VALUE=DATE:20381212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -62568,15 +62568,15 @@ DTSTART;VALUE=DATE:20391218
 DTEND;VALUE=DATE:20391219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20391211
 DTEND;VALUE=DATE:20391212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -62805,15 +62805,15 @@ DTSTART;VALUE=DATE:20401223
 DTEND;VALUE=DATE:20401224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20401211
 DTEND;VALUE=DATE:20401212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -63057,15 +63057,15 @@ DTSTART;VALUE=DATE:20411222
 DTEND;VALUE=DATE:20411223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20411211
 DTEND;VALUE=DATE:20411212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -63294,15 +63294,15 @@ DTSTART;VALUE=DATE:20421221
 DTEND;VALUE=DATE:20421222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20421211
 DTEND;VALUE=DATE:20421212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -63531,15 +63531,15 @@ DTSTART;VALUE=DATE:20431220
 DTEND;VALUE=DATE:20431221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20431211
 DTEND;VALUE=DATE:20431212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -63768,15 +63768,15 @@ DTSTART;VALUE=DATE:20441218
 DTEND;VALUE=DATE:20441219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20441211
 DTEND;VALUE=DATE:20441212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -64004,7 +64004,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20451211
 DTEND;VALUE=DATE:20451212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -64233,15 +64233,15 @@ DTSTART;VALUE=DATE:20461223
 DTEND;VALUE=DATE:20461224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20461211
 DTEND;VALUE=DATE:20461212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -64485,15 +64485,15 @@ DTSTART;VALUE=DATE:20471222
 DTEND;VALUE=DATE:20471223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20471211
 DTEND;VALUE=DATE:20471212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -64722,15 +64722,15 @@ DTSTART;VALUE=DATE:20481220
 DTEND;VALUE=DATE:20481221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20481211
 DTEND;VALUE=DATE:20481212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -64959,15 +64959,15 @@ DTSTART;VALUE=DATE:20491219
 DTEND;VALUE=DATE:20491220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20491211
 DTEND;VALUE=DATE:20491212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -65196,15 +65196,15 @@ DTSTART;VALUE=DATE:20501218
 DTEND;VALUE=DATE:20501219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20501211
 DTEND;VALUE=DATE:20501212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -65432,7 +65432,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20511211
 DTEND;VALUE=DATE:20511212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -65676,15 +65676,15 @@ DTSTART;VALUE=DATE:20521222
 DTEND;VALUE=DATE:20521223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20521211
 DTEND;VALUE=DATE:20521212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -65913,15 +65913,15 @@ DTSTART;VALUE=DATE:20531221
 DTEND;VALUE=DATE:20531222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20531211
 DTEND;VALUE=DATE:20531212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -66150,15 +66150,15 @@ DTSTART;VALUE=DATE:20541220
 DTEND;VALUE=DATE:20541221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20541211
 DTEND;VALUE=DATE:20541212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -66387,15 +66387,15 @@ DTSTART;VALUE=DATE:20551219
 DTEND;VALUE=DATE:20551220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20551211
 DTEND;VALUE=DATE:20551212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -66623,7 +66623,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20561211
 DTEND;VALUE=DATE:20561212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -66852,15 +66852,15 @@ DTSTART;VALUE=DATE:20571223
 DTEND;VALUE=DATE:20571224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20571211
 DTEND;VALUE=DATE:20571212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -67104,15 +67104,15 @@ DTSTART;VALUE=DATE:20581222
 DTEND;VALUE=DATE:20581223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20581211
 DTEND;VALUE=DATE:20581212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -67341,15 +67341,15 @@ DTSTART;VALUE=DATE:20591221
 DTEND;VALUE=DATE:20591222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20591211
 DTEND;VALUE=DATE:20591212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -67578,15 +67578,15 @@ DTSTART;VALUE=DATE:20601219
 DTEND;VALUE=DATE:20601220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20601211
 DTEND;VALUE=DATE:20601212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -67815,15 +67815,15 @@ DTSTART;VALUE=DATE:20611218
 DTEND;VALUE=DATE:20611219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20611211
 DTEND;VALUE=DATE:20611212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -68051,7 +68051,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20621211
 DTEND;VALUE=DATE:20621212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -68280,15 +68280,15 @@ DTSTART;VALUE=DATE:20631223
 DTEND;VALUE=DATE:20631224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20631211
 DTEND;VALUE=DATE:20631212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -68532,15 +68532,15 @@ DTSTART;VALUE=DATE:20641221
 DTEND;VALUE=DATE:20641222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20641211
 DTEND;VALUE=DATE:20641212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -68769,15 +68769,15 @@ DTSTART;VALUE=DATE:20651220
 DTEND;VALUE=DATE:20651221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20651211
 DTEND;VALUE=DATE:20651212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -69006,15 +69006,15 @@ DTSTART;VALUE=DATE:20661219
 DTEND;VALUE=DATE:20661220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20661211
 DTEND;VALUE=DATE:20661212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -69243,15 +69243,15 @@ DTSTART;VALUE=DATE:20671218
 DTEND;VALUE=DATE:20671219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20671211
 DTEND;VALUE=DATE:20671212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -69480,15 +69480,15 @@ DTSTART;VALUE=DATE:20681223
 DTEND;VALUE=DATE:20681224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20681211
 DTEND;VALUE=DATE:20681212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -69732,15 +69732,15 @@ DTSTART;VALUE=DATE:20691222
 DTEND;VALUE=DATE:20691223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20691211
 DTEND;VALUE=DATE:20691212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -69969,15 +69969,15 @@ DTSTART;VALUE=DATE:20701221
 DTEND;VALUE=DATE:20701222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20701211
 DTEND;VALUE=DATE:20701212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -70206,15 +70206,15 @@ DTSTART;VALUE=DATE:20711220
 DTEND;VALUE=DATE:20711221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20711211
 DTEND;VALUE=DATE:20711212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -70443,15 +70443,15 @@ DTSTART;VALUE=DATE:20721218
 DTEND;VALUE=DATE:20721219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20721211
 DTEND;VALUE=DATE:20721212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -70679,7 +70679,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20731211
 DTEND;VALUE=DATE:20731212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -70908,15 +70908,15 @@ DTSTART;VALUE=DATE:20741223
 DTEND;VALUE=DATE:20741224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20741211
 DTEND;VALUE=DATE:20741212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -71160,15 +71160,15 @@ DTSTART;VALUE=DATE:20751222
 DTEND;VALUE=DATE:20751223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20751211
 DTEND;VALUE=DATE:20751212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -71397,15 +71397,15 @@ DTSTART;VALUE=DATE:20761220
 DTEND;VALUE=DATE:20761221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20761211
 DTEND;VALUE=DATE:20761212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -71634,15 +71634,15 @@ DTSTART;VALUE=DATE:20771219
 DTEND;VALUE=DATE:20771220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20771211
 DTEND;VALUE=DATE:20771212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -71871,15 +71871,15 @@ DTSTART;VALUE=DATE:20781218
 DTEND;VALUE=DATE:20781219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20781211
 DTEND;VALUE=DATE:20781212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -72107,7 +72107,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20791211
 DTEND;VALUE=DATE:20791212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -72351,15 +72351,15 @@ DTSTART;VALUE=DATE:20801222
 DTEND;VALUE=DATE:20801223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20801211
 DTEND;VALUE=DATE:20801212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -72588,15 +72588,15 @@ DTSTART;VALUE=DATE:20811221
 DTEND;VALUE=DATE:20811222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20811211
 DTEND;VALUE=DATE:20811212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -72825,15 +72825,15 @@ DTSTART;VALUE=DATE:20821220
 DTEND;VALUE=DATE:20821221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20821211
 DTEND;VALUE=DATE:20821212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -73062,15 +73062,15 @@ DTSTART;VALUE=DATE:20831219
 DTEND;VALUE=DATE:20831220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20831211
 DTEND;VALUE=DATE:20831212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -73298,7 +73298,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20841211
 DTEND;VALUE=DATE:20841212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -73527,15 +73527,15 @@ DTSTART;VALUE=DATE:20851223
 DTEND;VALUE=DATE:20851224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20851211
 DTEND;VALUE=DATE:20851212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -73779,15 +73779,15 @@ DTSTART;VALUE=DATE:20861222
 DTEND;VALUE=DATE:20861223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20861211
 DTEND;VALUE=DATE:20861212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -74016,15 +74016,15 @@ DTSTART;VALUE=DATE:20871221
 DTEND;VALUE=DATE:20871222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20871211
 DTEND;VALUE=DATE:20871212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -74253,15 +74253,15 @@ DTSTART;VALUE=DATE:20881219
 DTEND;VALUE=DATE:20881220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20881211
 DTEND;VALUE=DATE:20881212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -74490,15 +74490,15 @@ DTSTART;VALUE=DATE:20891218
 DTEND;VALUE=DATE:20891219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20891211
 DTEND;VALUE=DATE:20891212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -74726,7 +74726,7 @@ SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20901211
 DTEND;VALUE=DATE:20901212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -74955,15 +74955,15 @@ DTSTART;VALUE=DATE:20911223
 DTEND;VALUE=DATE:20911224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20911211
 DTEND;VALUE=DATE:20911212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -75207,15 +75207,15 @@ DTSTART;VALUE=DATE:20921221
 DTEND;VALUE=DATE:20921222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20921211
 DTEND;VALUE=DATE:20921212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -75444,15 +75444,15 @@ DTSTART;VALUE=DATE:20931220
 DTEND;VALUE=DATE:20931221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20931211
 DTEND;VALUE=DATE:20931212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -75681,15 +75681,15 @@ DTSTART;VALUE=DATE:20941219
 DTEND;VALUE=DATE:20941220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20941211
 DTEND;VALUE=DATE:20941212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -75918,15 +75918,15 @@ DTSTART;VALUE=DATE:20951218
 DTEND;VALUE=DATE:20951219
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20951211
 DTEND;VALUE=DATE:20951212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -76155,15 +76155,15 @@ DTSTART;VALUE=DATE:20961223
 DTEND;VALUE=DATE:20961224
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20961211
 DTEND;VALUE=DATE:20961212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -76407,15 +76407,15 @@ DTSTART;VALUE=DATE:20971222
 DTEND;VALUE=DATE:20971223
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20971211
 DTEND;VALUE=DATE:20971212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -76644,15 +76644,15 @@ DTSTART;VALUE=DATE:20981221
 DTEND;VALUE=DATE:20981222
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20981211
 DTEND;VALUE=DATE:20981212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -76881,15 +76881,15 @@ DTSTART;VALUE=DATE:20991220
 DTEND;VALUE=DATE:20991221
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:20991211
 DTEND;VALUE=DATE:20991212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
@@ -77118,15 +77118,15 @@ DTSTART;VALUE=DATE:21001219
 DTEND;VALUE=DATE:21001220
 DESCRIPTION:Jólafasta. Nafnið er dregið af latneska orðinu adventus se
  m merkir koma\, þ.e. koma Krists. Aðventan hefst á fjórða sunnudegi f
- yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Þr
- iðja kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
+ yrir jól (27. nóv–3. des). Hefð fyrir því að kveikja á kerti. Fj
+ órða kertið heitir englakertið.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stekkjastaur kemur í nótt
 DTSTART;VALUE=DATE:21001211
 DTEND;VALUE=DATE:21001212
 DESCRIPTION:Stekkjastaur er fyrstur í röð þrettán jólasveina. Hann k
- emur til byggða aðfaranótt 12. desember. Skórinn fer úr í glugga að
+ emur til byggða aðfaranótt 12. desember. Skórinn fer út í glugga að
   kvöldi 11. desember.\n\nÁbendingar: lexpostur@gmail.com.
 END:VEVENT
 BEGIN:VEVENT
