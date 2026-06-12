@@ -582,7 +582,7 @@ LOCATION:Leikvangur í Dallas\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-073@ruv
-SUMMARY:16 liða úrslit: Leikur 1
+SUMMARY:32 liða úrslit: Leikur 1
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 DESCRIPTION:A2 gegn B2
@@ -590,7 +590,7 @@ LOCATION:Leikvangur í Los Angeles\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-074@ruv
-SUMMARY:16 liða úrslit: Leikur 2
+SUMMARY:32 liða úrslit: Leikur 2
 DTSTART:20260629T200000Z
 DTEND:20260629T220000Z
 DESCRIPTION:E1 gegn þriðjaliða úr A/B/C/D/F-riðlum
@@ -598,7 +598,7 @@ LOCATION:Leikvangur í Boston\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-075@ruv
-SUMMARY:16 liða úrslit: Leikur 3
+SUMMARY:32 liða úrslit: Leikur 3
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 DESCRIPTION:F1 gegn C2
@@ -606,7 +606,7 @@ LOCATION:Leikvangur í Monterrey\, Mexíkó
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-076@ruv
-SUMMARY:16 liða úrslit: Leikur 4
+SUMMARY:32 liða úrslit: Leikur 4
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 DESCRIPTION:C1 gegn F2
@@ -614,7 +614,7 @@ LOCATION:Leikvangur í Houston\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-077@ruv
-SUMMARY:16 liða úrslit: Leikur 5
+SUMMARY:32 liða úrslit: Leikur 5
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 DESCRIPTION:I1 gegn þriðjaliða úr C/D/F/G/H-riðlum
@@ -622,7 +622,7 @@ LOCATION:Leikvangur í New York/New Jersey\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-078@ruv
-SUMMARY:16 liða úrslit: Leikur 6
+SUMMARY:32 liða úrslit: Leikur 6
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 DESCRIPTION:E2 gegn I2
@@ -630,7 +630,7 @@ LOCATION:Leikvangur í Dallas\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-079@ruv
-SUMMARY:16 liða úrslit: Leikur 7
+SUMMARY:32 liða úrslit: Leikur 7
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 DESCRIPTION:A1 gegn þriðjaliða úr C/E/F/H/I-riðlum
@@ -638,7 +638,7 @@ LOCATION:Leikvangur í Mexíkóborg\, Mexíkó
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-080@ruv
-SUMMARY:16 liða úrslit: Leikur 8
+SUMMARY:32 liða úrslit: Leikur 8
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 DESCRIPTION:L1 gegn þriðjaliða úr E/H/I/J/K-riðlum
@@ -646,7 +646,7 @@ LOCATION:Leikvangur í Atlanta\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-081@ruv
-SUMMARY:16 liða úrslit: Leikur 9
+SUMMARY:32 liða úrslit: Leikur 9
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 DESCRIPTION:D1 gegn þriðjaliða úr B/E/F/I/J-riðlum
@@ -654,7 +654,7 @@ LOCATION:Leikvangur í San Francisco\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-082@ruv
-SUMMARY:16 liða úrslit: Leikur 10
+SUMMARY:32 liða úrslit: Leikur 10
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 DESCRIPTION:G1 gegn þriðjaliða úr A/E/H/I/J-riðlum
@@ -662,7 +662,7 @@ LOCATION:Leikvangur í Seattle\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-083@ruv
-SUMMARY:16 liða úrslit: Leikur 11
+SUMMARY:32 liða úrslit: Leikur 11
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 DESCRIPTION:K2 gegn L2
@@ -670,7 +670,7 @@ LOCATION:Leikvangur í Toronto\, Kanada
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-084@ruv
-SUMMARY:16 liða úrslit: Leikur 12
+SUMMARY:32 liða úrslit: Leikur 12
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 DESCRIPTION:H1 gegn J2
@@ -678,7 +678,7 @@ LOCATION:Leikvangur í Los Angeles\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-085@ruv
-SUMMARY:16 liða úrslit: Leikur 13
+SUMMARY:32 liða úrslit: Leikur 13
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 DESCRIPTION:B1 gegn þriðjaliða úr E/F/G/I/J-riðlum
@@ -686,7 +686,7 @@ LOCATION:BC Place\, Vancouver\, Kanada
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-086@ruv
-SUMMARY:16 liða úrslit: Leikur 14
+SUMMARY:32 liða úrslit: Leikur 14
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 DESCRIPTION:J1 gegn H2
@@ -694,7 +694,7 @@ LOCATION:Leikvangur í Miami\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-087@ruv
-SUMMARY:16 liða úrslit: Leikur 15
+SUMMARY:32 liða úrslit: Leikur 15
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 DESCRIPTION:K1 gegn þriðjaliða úr D/E/I/J/L-riðlum
@@ -702,7 +702,7 @@ LOCATION:Leikvangur í Kansas City\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-088@ruv
-SUMMARY:16 liða úrslit: Leikur 16
+SUMMARY:32 liða úrslit: Leikur 16
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 DESCRIPTION:D2 gegn G2
@@ -710,98 +710,98 @@ LOCATION:Leikvangur í Dallas\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-089@ruv
-SUMMARY:Átján liða úrslit: Leikur 1
+SUMMARY:32 liða úrslit: Leikur 1
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-DESCRIPTION:Sigurvegari leiks 2 gegn sigurvegara leiks 5
+DESCRIPTION:Sigurvegari: E1 gegn þriðjaliða (A/B/C/D/F) og I1 gegn þriðjaliða (C/D/F/G/H)
 LOCATION:Leikvangur í Philadelphia\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-090@ruv
-SUMMARY:Átján liða úrslit: Leikur 2
+SUMMARY:32 liða úrslit: Leikur 2
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-DESCRIPTION:Sigurvegari leiks 1 gegn sigurvegara leiks 3
+DESCRIPTION:Sigurvegari: A2 gegn B2 og F1 gegn C2
 LOCATION:Leikvangur í Houston\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-091@ruv
-SUMMARY:Átján liða úrslit: Leikur 3
+SUMMARY:32 liða úrslit: Leikur 3
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-DESCRIPTION:Sigurvegari leiks 4 gegn sigurvegara leiks 6
+DESCRIPTION:Sigurvegari: C1 gegn F2 og E2 gegn I2
 LOCATION:Leikvangur í New York/New Jersey\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-092@ruv
-SUMMARY:Átján liða úrslit: Leikur 4
+SUMMARY:32 liða úrslit: Leikur 4
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-DESCRIPTION:Sigurvegari leiks 7 gegn sigurvegara leiks 8
+DESCRIPTION:Sigurvegari: A1 gegn þriðjaliða (C/E/F/H/I) og L1 gegn þriðjaliða (E/H/I/J/K)
 LOCATION:Leikvangur í Mexíkóborg\, Mexíkó
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-093@ruv
-SUMMARY:Átján liða úrslit: Leikur 5
+SUMMARY:32 liða úrslit: Leikur 5
 DTSTART:20260706T200000Z
 DTEND:20260706T220000Z
-DESCRIPTION:Sigurvegari leiks 11 gegn sigurvegara leiks 12
+DESCRIPTION:Sigurvegari: K2 gegn L2 og H1 gegn J2
 LOCATION:Leikvangur í Dallas\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-094@ruv
-SUMMARY:Átján liða úrslit: Leikur 6
+SUMMARY:32 liða úrslit: Leikur 6
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-DESCRIPTION:Sigurvegari leiks 9 gegn sigurvegara leiks 10
+DESCRIPTION:Sigurvegari: D1 gegn þriðjaliða (B/E/F/I/J) og G1 gegn þriðjaliða (A/E/H/I/J)
 LOCATION:Leikvangur í Seattle\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-095@ruv
-SUMMARY:Átján liða úrslit: Leikur 7
+SUMMARY:32 liða úrslit: Leikur 7
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-DESCRIPTION:Sigurvegari leiks 14 gegn sigurvegara leiks 16
+DESCRIPTION:Sigurvegari: J1 gegn H2 og D2 gegn G2
 LOCATION:Leikvangur í Atlanta\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-096@ruv
-SUMMARY:Átján liða úrslit: Leikur 8
+SUMMARY:32 liða úrslit: Leikur 8
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-DESCRIPTION:Sigurvegari leiks 13 gegn sigurvegara leiks 15
+DESCRIPTION:Sigurvegari: B1 gegn þriðjaliða (E/F/G/I/J) og K1 gegn þriðjaliða (D/E/I/J/L)
 LOCATION:BC Place\, Vancouver\, Kanada
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-097@ruv
-SUMMARY:Fjórðungsúrslit: Leikur 1
+SUMMARY:8 liða úrslit: Leikur 1
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-DESCRIPTION:Sigurvegari átján liða úrslita 1 gegn sigurvegara átján liða úrslita 2
+DESCRIPTION:Sigurvegari 32 liða úrslita 1 gegn sigurvegara 32 liða úrslita 2
 LOCATION:Leikvangur í Boston\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-098@ruv
-SUMMARY:Fjórðungsúrslit: Leikur 2
+SUMMARY:8 liða úrslit: Leikur 2
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-DESCRIPTION:Sigurvegari átján liða úrslita 5 gegn sigurvegara átján liða úrslita 6
+DESCRIPTION:Sigurvegari 32 liða úrslita 5 gegn sigurvegara 32 liða úrslita 6
 LOCATION:Leikvangur í Los Angeles\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-099@ruv
-SUMMARY:Fjórðungsúrslit: Leikur 3
+SUMMARY:8 liða úrslit: Leikur 3
 DTSTART:20260711T200000Z
 DTEND:20260711T220000Z
-DESCRIPTION:Sigurvegari átján liða úrslita 3 gegn sigurvegara átján liða úrslita 4
+DESCRIPTION:Sigurvegari 32 liða úrslita 3 gegn sigurvegara 32 liða úrslita 4
 LOCATION:Leikvangur í Miami\, BNA
 END:VEVENT
 BEGIN:VEVENT
 UID:hm2026-100@ruv
-SUMMARY:Fjórðungsúrslit: Leikur 4
+SUMMARY:8 liða úrslit: Leikur 4
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-DESCRIPTION:Sigurvegari átján liða úrslita 7 gegn sigurvegara átján liða úrslita 8
+DESCRIPTION:Sigurvegari 32 liða úrslita 7 gegn sigurvegara 32 liða úrslita 8
 LOCATION:Leikvangur í Kansas City\, BNA
 END:VEVENT
 BEGIN:VEVENT
@@ -809,7 +809,7 @@ UID:hm2026-101@ruv
 SUMMARY:Undanúrslit: Leikur 1
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-DESCRIPTION:Sigurvegari fjórðungsúrslita 1 gegn sigurvegara fjórðungsúrslita 2
+DESCRIPTION:Sigurvegari 8 liða úrslita 1 gegn sigurvegara 8 liða úrslita 2
 LOCATION:Leikvangur í Dallas\, BNA
 END:VEVENT
 BEGIN:VEVENT
@@ -817,7 +817,7 @@ UID:hm2026-102@ruv
 SUMMARY:Undanúrslit: Leikur 2
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-DESCRIPTION:Sigurvegari fjórðungsúrslita 3 gegn sigurvegara fjórðungsúrslita 4
+DESCRIPTION:Sigurvegari 8 liða úrslita 3 gegn sigurvegara 8 liða úrslita 4
 LOCATION:Leikvangur í Atlanta\, BNA
 END:VEVENT
 BEGIN:VEVENT
@@ -825,7 +825,7 @@ UID:hm2026-103@ruv
 SUMMARY:Leikur um 3. sæti
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-DESCRIPTION:Taper úr undanúrslitum 1 gegn tapara úr undanúrslitum 2
+DESCRIPTION:Tapari úr undanúrslitum 1 gegn tapara úr undanúrslitum 2
 LOCATION:Leikvangur í Miami\, BNA
 END:VEVENT
 BEGIN:VEVENT
